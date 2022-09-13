@@ -45,6 +45,7 @@ features                                  :
   - title                                 : Open Source
     description                           : Feather is open sourced under MIT license and is Free.
     fontawesome_icon_name                 : osi
+    is_brand                              : true
 
   - title                                 : Beautiful Design
     description                           : Designed with minimalism and usability in mind.
