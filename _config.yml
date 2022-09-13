@@ -36,19 +36,27 @@ features                                  :
 
   - title                                 : Privacy Focused
     description                           : Feather doesn't collect or share any of your personal information such as your location.
-    fontawesome_icon_name                 : shield-alt
+    fontawesome_icon_name                 : user-shield
     
   - title                                 : Multiple Data Providers
-    description                           : Feather is powered by various data providers, you can change your data provider in App settings.
-    fontawesome_icon_name                 : mobile
+    description                           : Feather is powered by various data providers, you can change your data provider in the App settings.
+    fontawesome_icon_name                 : plug
 
   - title                                 : Open Source
-    description                           : Feather is open sourced under MIT license and is Free
+    description                           : Feather is open sourced under MIT license and is Free.
     fontawesome_icon_name                 : osi
 
-  - title                                 : Detailed forecasts
-    description                           : Have detailed info about forecast like chance of rain, humidity, sunrise, etc.
-    fontawesome_icon_name                 : temperature-high
+  - title                                 : Beautiful Design
+    description                           : Designed with minimalism and usability in mind.
+    fontawesome_icon_name                 : compass-drafting
+
+  - title                                 : Weekly Forecasts
+    description                           : Forecasts available for up to next 7 days
+    fontawesome_icon_name                 : calendar-week
+
+  - title                                 : Charts
+    description                           : See atmospheric factors like temperature, humidity, etc in charts for a better visualization.
+    fontawesome_icon_name                 : chart-line
 
 
 # Theme Settings
@@ -60,7 +68,7 @@ cover_image                               : assets/headerimage.jpg              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
