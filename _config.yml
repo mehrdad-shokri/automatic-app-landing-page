@@ -25,7 +25,7 @@ your_city                                 : Tehran
 email_address                             : mehrdad@shokri.dev
 facebook_username                         :
 instagram_username                        :
-twitter_username                          : mehrdad-shokri
+twitter_username                          : mehrdad_shokri
 github_username                           : mehrdad-shokri/feather
 youtube_username                          : UCTg_X3QVErq_B2MbJyZ0sUw
 
@@ -85,7 +85,7 @@ feature_text_color                        : "#666666"
 feature_icons_foreground_color            : "#64B5F6"
 feature_icons_background_color            : "#eeeeee"
 
-social_icons_foreground_color             : "#777777"
+social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#efefef"
 
 footer_text_color                         : "#666666"
